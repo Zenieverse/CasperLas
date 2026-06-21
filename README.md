@@ -1,4 +1,4 @@
-# 🌌 Casper Atlas
+# 🌌 Casper Atlas aka CasperLas
 
 > **The Decentralized Operating System for the Agent Economy on the Casper Network.** https://ca-perlas-764082783379.us-west1.run.app 
 >
