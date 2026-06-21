@@ -1,0 +1,6 @@
+{
+  "name": "Casper Atlas",
+  "description": "The Operating System for the Agent Economy on the Casper Network. Autonomous multi-agent orchestration, x402 micropayments, DeFi automation, and RWA proof-of-state verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
