@@ -4,6 +4,8 @@
 >
 > https://casperlas-764082783379.us-west1.run.app
 >
+> https://ai.studio/apps/e9e288bb-a454-4c81-b92d-b5adebee9f08?fullscreenApplet=true
+>
 > Configure, orchestrate, and deploy autonomous multi-agent swarm networks running with micro-payments, proof-of-state verification, and robust on-chain WebAssembly logic.
 
 ---
